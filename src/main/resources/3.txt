@@ -1,9 +1,8 @@
-Student{id=1, name='Carlos', grade=7.0}
-Student{id=2, name='jose', grade=7.0}
-Student{id=3, name='Luis', grade=8.0}
-Student{id=4, name='Ernesto', grade=10.0}
+Student{id=1, name='"Ernesto"', grade=4.0}
+Student{id=2, name='"Vanessa"', grade=9.0}
+Student{id=3, name='"Kenya"', grade=9.0}
 		
-total: 10.0
-Average: 2.5
-Max Grade10.0
-Min Grade7.0
+total: 9.0
+Average: 3.0
+Max Grade: 9.0
+Min Grade: 4.0

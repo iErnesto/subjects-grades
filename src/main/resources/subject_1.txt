@@ -1,3 +1,2 @@
-1   "Jorge"     10.0
-2   "Miguel"    5.0
-3   "Armando"   7.0
+%PDF-1.7
+%‚„œ”

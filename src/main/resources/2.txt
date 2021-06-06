@@ -4,5 +4,5 @@ Student{id=3, name='"Sandra"', grade=4.0}
 		
 total: 4.0
 Average: 1.3333333333333333
-Max Grade9.0
-Min Grade2.0
+Max Grade: 9.0
+Min Grade: 2.0

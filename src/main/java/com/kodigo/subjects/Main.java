@@ -1,5 +1,7 @@
 package com.kodigo.subjects;
 
+
+
 import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -16,7 +18,7 @@ public class Main {
         //readFile();
         //createFile();
         askSubjects();
-        //statics();
+        //toPdf();
     }
 
     public static void askSubjects() throws IOException {
@@ -90,8 +92,8 @@ public class Main {
         pw.println("\t\t");
         pw.println("total: " + total);
         pw.println("Average: " + average);
-        pw.println("Max Grade" + maxGrade);
-        pw.println("Min Grade" + minGrade);
+        pw.println("Max Grade: " + maxGrade);
+        pw.println("Min Grade: " + minGrade);
         pw.close();
         System.out.println("Total: " + total);
         System.out.println("Average: " + average);
@@ -161,8 +163,12 @@ public class Main {
         fo.close();
     }
 
-
 }
+
+
+
+
+
 
 
 

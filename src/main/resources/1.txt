@@ -1,3 +1,8 @@
 Student{id=1, name='"Jorge"', grade=10.0}
 Student{id=2, name='"Miguel"', grade=5.0}
 Student{id=3, name='"Armando"', grade=7.0}
+		
+total: 7.0
+Average: 2.3333333333333335
+Max Grade10.0
+Min Grade5.0

@@ -1,6 +1,6 @@
-Student{id=1, name='"Ernesto"', grade=4.0}
-Student{id=2, name='"Vanessa"', grade=9.0}
-Student{id=3, name='"Kenya"', grade=9.0}
+Student(id=1, name="Ernesto", grade=4.0)
+Student(id=2, name="Vanessa", grade=9.0)
+Student(id=3, name="Kenya", grade=9.0)
 		
 total: 22.0
 Average: 7.333333333333333

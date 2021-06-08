@@ -17,8 +17,6 @@ import java.util.Scanner;
 
 public class Main {
 
-
-
     static int subject = 1;
     public static void main(String[] args) throws Exception {
         //readFile();
